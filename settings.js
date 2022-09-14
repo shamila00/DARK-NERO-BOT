@@ -12,8 +12,8 @@ global.APIKeys = {
 }
 
 
-global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '94774579505'
+global.OWNER_REACT = '❤'
+global.REACT_NUMBER = '94703809333'
 
 
 //chatbot on/off
@@ -39,23 +39,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94774579505'] //ur owner number
-global.ownername = "🎸 KAVEESHA " //ur owner name
-global.ytname = "YT: Nero" //ur yt chanel name
+global.vcardowner = ['94703809333'] //ur owner number
+global.ownername = "❤SAAJID❤ " //ur owner name
+global.ytname = "YT: saajid" //ur yt chanel name
 global.socialm = "GitHub: Nero" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['774579505']
-global.ownertag = '774579505' //ur tag number
-global.botname = '✫ ✫ ✫𝙳𝙰𝚁𝙺 𝙽𝙴𝚁𝙾✫ ✫ ✫' //ur bot name
+global.owner = ['703809333']
+global.ownertag = '703809333' //ur tag number
+global.botname = '✫ ✫ ✫Saajid bot✫ ✫ ✫' //ur bot name
 global.linkz = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //ur website to be displayed
 global.botscript = 'https://github.com/Kaveeshasithum/DARK-NERO-BOT.git' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
-global.packname = "Nero Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "Kaveesha sithum" //ur sticker watermark author
+global.packname = "Saajid bot " //ur sticker watermark packname
+global.author = "Saajid bot" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -64,7 +64,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['774579505'] //ur premium numbers
+global.premium = ['703809333'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -90,9 +90,9 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
+    success: 'හරි ✅',
     admin: 'This Feature Is Only For Admin! 🇱🇰',
-    botAdmin: 'Bot Must Be Admin First! 🇱🇰',
+    botAdmin: '*මට ඇඩ්මින් දෙන්න! 🇱🇰*',
     owner: 'This Feature Is Only For Owner! 🇱🇰',
     group: 'Feature Used Only For Groups! 🇱🇰',
     private: 'Features Used Only For Private Chat! 🇱🇰',
